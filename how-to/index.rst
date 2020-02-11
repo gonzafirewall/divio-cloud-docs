@@ -24,6 +24,7 @@ Setting up a project and its environment
     Set up Sass CSS compilation <configure-sass>
     Configure Celery <configure-celery>
     Configure external logging <configure-external-logging>
+    Configure media serving on a custom domain <configure-media-custom-domain>
 
 
 Working with Django projects
