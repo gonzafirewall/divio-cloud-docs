@@ -141,7 +141,9 @@ Copy the key, and add it to the Git repository:
 |gitlab| GitLab
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. In the repository, go to *Settings* > *Repository* > *Deploy keys* > *Create a new deploy key*.
+#. In the repository, go to *Settings* 
+#. On GitLab 12.8 and earlier, click Repository.  On GitLab 12.9 and later, click CI / CD. 
+#. *Deploy keys* > *Create a new deploy key*.
 #. Paste the key.
 #. Select *Write access allowed*.
 
